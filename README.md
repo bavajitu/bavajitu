@@ -18,5 +18,4 @@ I love building things that are complex and make sense. As you might be able to 
 
 ### Contributions:
 
-![Snake animation](https://github.com/bavajitu/bavajitu/blob/output/github-contribution-grid-snake.svg)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bavajitu&theme=github-compact)
