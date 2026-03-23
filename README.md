@@ -6,7 +6,7 @@
 
 ---
 
-## 🪶About me:
+## 🪶About Me:
 
 I am a **student** who's apparently really interested in the computers and programming. I mostly write in C++ and I'm really passionate towards **Systems programming**, low-level programming and Game engines.
 
