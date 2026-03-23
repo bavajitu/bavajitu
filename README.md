@@ -14,3 +14,4 @@ I love building things that are complex and make sense. As you might be able to 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bavajitu&show_icons=true&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bavajitu&layout=compact&theme=transparent&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=bavajitu&theme=transparent&hide_border=true)
+![Snake animation](https://github.com/bavajitu/bavajitu/blob/output/github-contribution-grid-snake.svg)
