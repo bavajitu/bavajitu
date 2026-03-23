@@ -6,6 +6,8 @@ I love building things that are complex and make sense. As you might be able to 
 
 ### Programming Stack:
 
+### Programming Stack:
+
 <div style="display: flex; align-items: center; gap: 24px;">
 
 <div>
@@ -17,10 +19,6 @@ I love building things that are complex and make sense. As you might be able to 
 </div>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="90"/>
-
-</div>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="80"/>
 
 </div>
 
