@@ -1,27 +1,14 @@
 ![Hands](./images/hands.jpg)
 
-# Hey there, I'm Bavajithu!
+<h1 align="center">Hello, I'm Bavajithu 👋</h3>
 
-I love building things that are complex and make sense. As you might be able to tell, I am a Linux enthusiast.
+<p align="center">I love building things that are complex and make sense. As you might be able to tell, I am a Linux enthusiast.</p>
 
 ### Programming Stack:
-
-<table style="border: none;">
-<tr style="border: none;">
-<td style="border: none;">
 
 - C++ (Primary)
 - x86 Assembly (for OS project)
 - Game engine in pure C++
-
-</td>
-<td style="border: none;">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100"/>
-
-</td>
-</tr>
-</table>
 
 ### Statistics:
 
