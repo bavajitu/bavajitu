@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I'm Bavajithu 👋</h1>
 
-<p align="center">I love building things that are complex and make sense. As you might be able to tell, I am a Linux enthusiast.</p>
+<p align="center">I build systems and low-level software. Linux, C++, and complexity with purpose.</p>
 
 ---
 
