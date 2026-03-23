@@ -8,6 +8,7 @@ I love building things that are complex and make sense. As you might be able to 
 
 - C++ (Primary)
 - x86 Assembly (for my OS project)
+- I'm also working on my game engine that I'm building on pure C++
 
 ### Statistics:
 
