@@ -8,17 +8,19 @@ I love building things that are complex and make sense. As you might be able to 
 
 ### Programming Stack:
 
-<div style="display: flex; align-items: center; gap: 24px;">
+<div style="display: flex; justify-content: space-between;">
 
 <div>
 
-- C++ (Primary)
-- x86 Assembly (for OS project)
-- Game engine in pure C++
+### Programming Stack:
+
+- C++ (Primary).
+- x86 Assembly (for my OS project).
+- I'm also working on my game engine built in pure C++.
 
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="90"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100"/>
 
 </div>
 
