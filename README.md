@@ -1,14 +1,19 @@
 ![Hands](./images/hands.jpg)
 
-<h1 align="center">Hello, I'm Bavajithu 👋</h3>
+<h1 align="center">Hello, I'm Bavajithu 👋</h1>
 
-<p align="center">I love building things that are complex and make sense. As you might be able to tell, I am a Linux enthusiast.</p>
+<p align="center">I love building things that are complex and make sense. As you might be able to tell, I am a <bold>Linux enthusiast</bold>.</p>
 
-### Programming Stack:
+### About me:
 
-- C++ (Primary)
-- x86 Assembly (for OS project)
-- Game engine in pure C++
+I am a **student** who's apparently really interested in the computers and programming. I mostly write in C++ and I'm really passionate towards **Systems programming**, low-level programming and Game engines.
+
+As of now, working on **CrazyOS**, which is nothing crazy but just an Operating system that I'm trying to build by myself to improve my skills in C++.
+
+- **Main Project**: **CrazyOS** as of now, I do plan on starting my game engine project once I'm more fluent in C++.
+- **Technical interests**: Systems programming, low-level programming.
+- **Outside of Projects**: I'm also interested in Competitive Programming, so I've also been solving problems in **[Codeforces](https://www.codeforces.com/profile/bavajithu)**.
+- **Beyond code**: I'm learning FreeCAD as of late, trying to design PCBs with some friends of mine.
 
 ### Statistics:
 
