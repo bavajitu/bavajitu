@@ -4,10 +4,6 @@
 
 I love building things that are complex and make sense. As you might be able to tell, I am a Linux enthusiast.
 
-### Programming Stack:
-
-### Programming Stack:
-
 <div style="display: flex; justify-content: space-between;">
 
 <div>
