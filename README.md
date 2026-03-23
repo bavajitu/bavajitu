@@ -15,7 +15,7 @@ Working on my C++ skills as of late - building small projects, solving Competiti
 - **Main focus**: Preparing for a future OS project (OrionOS) while strengthening C++ and low-level fundamentals.
 - **Technical interests**: Systems programming, low-level programming.
 - **Outside of Projects**: I'm also interested in Competitive Programming, so I've also been solving problems in **[Codeforces](https://www.codeforces.com/profile/bavajithu)**.
-- **Beyond code**: I'm learning FreeCAD as of late, trying to design PCBs with some friends of mine.
+- **Beyond code**: I'm learning FreeCAD as of late, trying to design PCBs and build cool projects with some friends of mine.
 
 ---
 
