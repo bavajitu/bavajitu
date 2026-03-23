@@ -6,9 +6,19 @@ I love building things that are complex and make sense. As you might be able to 
 
 ### Programming Stack:
 
-- C++ (Primary)
-- x86 Assembly (for my OS project)
-- I'm also working on my game engine that I'm building on pure C++
+<div style="display: flex; align-items: center; gap: 20px;">
+
+<div>
+
+- C++ (Primary).
+- x86 Assembly (for my OS project).
+- I'm also working on my game engine built in pure C++.
+
+</div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="80"/>
+
+</div>
 
 ### Statistics:
 
