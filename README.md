@@ -10,9 +10,9 @@
 
 I am a **student** who's apparently really interested in the computers and programming. I mostly write in C++ and I'm really passionate towards **Systems programming**, low-level programming and Game engines.
 
-As of now, working on **CrazyOS**, which is nothing crazy but just an Operating system that I'm trying to build by myself to improve my skills in C++.
+Working on my C++ skills as of late - building small projects, solving Competitive Programming problems, learning theories. All to move closer towards my main goals that I'll start working on soon. (OrionOS and Sirius Game Engine)
 
-- **Main focus**: Preparing for a future OS project (CrazyOS) while strengthening C++ and low-level fundamentals.
+- **Main focus**: Preparing for a future OS project (OrionOS) while strengthening C++ and low-level fundamentals.
 - **Technical interests**: Systems programming, low-level programming.
 - **Outside of Projects**: I'm also interested in Competitive Programming, so I've also been solving problems in **[Codeforces](https://www.codeforces.com/profile/bavajithu)**.
 - **Beyond code**: I'm learning FreeCAD as of late, trying to design PCBs with some friends of mine.
