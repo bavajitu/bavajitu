@@ -25,7 +25,7 @@ I am a **student** who's interested in the computers and programming. I mostly w
 
 ## Contacts:
 
-- Email: bavajithu.v.m@gmail.com
-- Discord: brellary
+- Email: systems.loris@gmail.com
+- Discord: brellary (I do not reply to stranger DMs)
 
 I do not accept pull requests. I do not respond to feature requests. If you find a bug, open an issue. I will fix it when I have time.
