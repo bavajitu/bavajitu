@@ -17,10 +17,6 @@ I am a **student** who's interested in the computers and programming. I mostly w
 
 ---
 
-## Statistics:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bavajitu&show_icons=true&theme=transparent&hide_border=true)
-
 ### Contributions:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bavajitu&theme=github-compact)
