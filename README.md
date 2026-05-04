@@ -1,25 +1,27 @@
 <h1 align="center">Hello, I'm Bavajithu</h1>
 
-<p align="center">I build systems and low-level software. Linux, C++, and complexity with purpose.</p>
+<p align="center">I build systems and low-level software. Linux, C, and complexity with purpose.</p>
 
 ---
 
-I am a **student** who's interested in the computers and programming. I mostly write in C++ and I'm really passionate towards **Systems programming**, low-level programming and Game engines.
+## Currently
 
-- **Main focus**: Working on my own Operating System project slowly while strengthening C++ and low-level fundamentals.
-- **Technical interests**: Systems programming, low-level programming.
-- **Outside of Projects**: I'm also interested in Competitive Programming, so I've also been solving problems in **[Codeforces](https://www.codeforces.com/profile/bavajithu)**.
+- Writing a tiny 2D game engine in C++
+- Learning OS development (toy kernel)
 
-## Projects
+## Tools I use daily
 
-- [brellary.nvim](https://github.com/bavajitu/brellary.nvim.git) - A custom colorscheme for Neovim featuring very mid-toned palette and easy on the eyes.
-- [dotfiles](https://github.com/bavajitu/dotfiles.git) - Arch Linux, i3-WM and Neovim, my environment.
+- C, C++
+- Linux (Arch), Neovim, tmux, Alacritty
+- gdb, valgrind, perf, qemu
+- i3wm (custom config, somewhere in my dotfiles)
 
----
+## What I value
 
-### Contributions:
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bavajitu&theme=github-compact)
+- Code that's correct first, fast second
+- Memory that gets freed
+- Reading source code (not just documentation)
+- Finishing projects (not starting new ones every week)
 
 ---
 
@@ -28,4 +30,4 @@ I am a **student** who's interested in the computers and programming. I mostly w
 - Email: systems.loris@gmail.com
 - Discord: brellary (I do not reply to stranger DMs)
 
-I do not accept pull requests. I do not respond to feature requests. If you find a bug, open an issue. I will fix it when I have time.
+I do not accept pull requests. I do not respond to feature requests. If you find a bug, open an issue. I will fix it when I have time. If you want to talk about Systems Programming, Email me.
