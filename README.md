@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I'm Bavajithu</h1>
 
-<img src="./images/hands.jpg" alt="hands" style="display: block; margin: auto;">
-
 <p align="center">I build systems and low-level software. Linux, C, and complexity with purpose.</p>
 
 ---
